@@ -1,1 +1,1 @@
-[View live](https://SwipesForScience.github.io/testConfig/)
+[View live](https://whaledr.github.io/beringstrait/)
