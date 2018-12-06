@@ -8,7 +8,7 @@ export default {
     "delimiter": "____",
     "leftSwipeLabel": "Fail",
     "rightSwipeLabel": "Whale",
-    "soundUrlTemplate": "https://s3-us-west-2.amazonaws.com/himatdata/BeringStrait_A2/2010/{0}.wav"
+    "soundUrlTemplate": "https://s3-us-west-2.amazonaws.com/himatdata/BeringStrait_A3/2015/{0}.wav"
   },
   "betaMode": false,
   "firebaseKeys": {
