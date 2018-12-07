@@ -10,6 +10,13 @@ export default {
     "rightSwipeLabel": "Whale",
     "soundUrlTemplate": "https://s3-us-west-2.amazonaws.com/himatdata/BeringStrait/{0}.wav"
   },
+  manifestType: 'S3',
+  manifestS3: {
+    bucket: 'himatdata',
+    prefix: 'BeringStrait',
+    delimiter: '.wav',
+    max_keys: 10000,
+  },
   "betaMode": false,
   "firebaseKeys": {
     "apiKey": "AIzaSyDmfW_1OZekAGqgQMGpaxkHyamQKCms2cg",
