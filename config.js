@@ -1,6 +1,6 @@
 export default {
   /* eslint-disable */
-  "needsTutorial": false,
+  "needsTutorial": true,
   "manifestUrl": "https://s3-us-west-2.amazonaws.com/himatdata/BeringStrait/whalemanifest.json",
   "widgetType": "ImageSoundSwipe",
   "widgetProperties": {
@@ -141,19 +141,19 @@ export default {
       "examples": [
         {
           "text": "swipe right when you hear/see a whale \n you can tap the image to hear it.",
-          "pointer": "OO_HYVM1__YDH_2017_10_06T06_48_00",
+          "pointer": "A3150912_09_1970_01_01T00_03_15_241455Z",
           "answer": 1,
           "tutorialStep": 0
         },
         {
           "text": "when it is not a whale \n swipe left",
-          "pointer": "OO_HYVM1__YDH_2017_10_06T06_48_00",
+          "pointer": "A3150919_08_1970_01_01T00_19_35_045654Z",
           "answer": 0,
           "tutorialStep": 1
         },
         {
           "text": "if you're not sure, click 'help' \n to discuss with scientists ",
-          "pointer": "OO4_HYVM1__YDH_2017_10_06T06_48_00",
+          "pointer": "A3150912_09_1970_01_01T00_05_35_991333Z",
           "answer": 0,
           "tutorialStep": 2
         },
