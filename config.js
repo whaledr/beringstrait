@@ -110,23 +110,23 @@ export default {
     "steps": {
       "intro": [
         {
-          "text": "we want to learn about whales",
+          "text": "We want to learn about whales, the sounds the make, and the habitats they live in",
           "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Humpback_whales_in_singing_position.jpg"
         },
         {
-          "text": "there is a sound recorder in the ocean, \n its called a hydrophone \n and its always on",
+          "text": "We use a hydrophone, \n or an 'underwater microphone', \n to record and study whale calls",
           "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hydrophone_being_lowered_into_the_Atlantic.jpg"
         },
         {
-          "text": "we can make a picture from the sound waves \n the vertical lines are from the hydrophone \n using ecolocation to hear ocean sounds",
+          "text": "We then make a picture of the sound called a 'spectrogram' \n with frequency or pitch on the y-axis and time on the x-axis, /n the colors represent the loudness of the sound (intensity)",
           "image": "http://himatdata.s3.amazonaws.com/whaledr_renamed/OO_HYVM1__YDH_2017_10_06T05_16_45.jpg"
         },
         {
-          "text": "most of the time you do not hear anything.",
+          "text": "Most of the time you do not hear anything...",
           "image": "http://himatdata.s3.amazonaws.com/whaledr_renamed/OO_HYVM1__YDH_2017_10_06T21_55_05.jpg"
         },
         {
-          "text": "but sometimes you hear a whale",
+          "text": "...but sometimes, you hear a whale",
           "image": "http://himatdata.s3.amazonaws.com/whaledr_renamed/OO_HYVM1__YDH_2017_10_06T19_04_25.jpg"
         },
         {
@@ -134,31 +134,31 @@ export default {
           "image": "http://himatdata.s3.amazonaws.com/whaledr_renamed/OO_HYVM1__YDH_2017_10_06T01_50_25.jpg"
         },
         {
-          "text": "we want to train a machine to recognize the whales and dolphins. \n For that we need your help.",
+          "text": "We want to train a machine to recognize the sounds whales and dolphins make, \n and for that we need your help!",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gnome-computer.svg/600px-Gnome-computer.svg.png"
         }
       ],
       "examples": [
         {
-          "text": "swipe right when you hear/see a whale \n you can tap the image to hear it.",
+          "text": "Swipe right when you hear/see a whale \n you can tap the image to listen to the sound clip",
           "pointer": "A3150912_09_1970_01_01T00_03_15_241455Z",
           "answer": 1,
           "tutorialStep": 0
         },
         {
-          "text": "when it is not a whale \n swipe left",
+          "text": "When there are no whale sounds \n swipe left",
           "pointer": "A3150919_08_1970_01_01T00_19_35_045654Z",
           "answer": 0,
           "tutorialStep": 1
         },
         {
-          "text": "if you're not sure, click 'help' \n to discuss with scientists ",
+          "text": "If you're not sure, click the 'Help' button \n to ask a scientist for help",
           "pointer": "A3150912_09_1970_01_01T00_05_35_991333Z",
           "answer": 0,
           "tutorialStep": 2
         },
         {
-          "text": "Are you ready to play?",
+          "text": "Ready to play?",
           "tutorialCompleted": true
         }
       ]
