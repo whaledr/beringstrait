@@ -118,7 +118,7 @@ export default {
           "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hydrophone_being_lowered_into_the_Atlantic.jpg"
         },
         {
-          "text": "We then make a picture of the sound called a 'spectrogram'<br> with frequency or pitch on the y-axis and time on the x-axis <br> The colors represent the loudness of the sound (intensity)",
+          "text": "We then make a picture of the sound called a 'spectrogram' with frequency or pitch on the y-axis and time on the x-axis <br> The colors represent the loudness of the sound (intensity)",
           "image": "http://himatdata.s3.amazonaws.com/whaledr_renamed/OO_HYVM1__YDH_2017_10_06T05_16_45.jpg"
         },
         {
