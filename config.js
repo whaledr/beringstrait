@@ -140,7 +140,7 @@ export default {
       ],
       "examples": [
         {
-          "text": "Swipe right when you hear/see a whale" \n "you can tap the image to listen to the sound clip",
+          "text": "Swipe right when you hear/see a whale <br> you can tap the image to listen to the sound clip",
           "pointer": "A3150912_09_1970_01_01T00_03_15_241455Z",
           "answer": 1,
           "tutorialStep": 0
