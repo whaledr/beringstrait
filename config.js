@@ -118,7 +118,7 @@ export default {
           "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hydrophone_being_lowered_into_the_Atlantic.jpg"
         },
         {
-          "text": "We then make a picture of the sound called a 'spectrogram' \n with frequency or pitch on the y-axis and time on the x-axis, /n the colors represent the loudness of the sound (intensity)",
+          "text": "We then make a picture of the sound called a 'spectrogram'<br> with frequency or pitch on the y-axis and time on the x-axis <br> The colors represent the loudness of the sound (intensity)",
           "image": "http://himatdata.s3.amazonaws.com/whaledr_renamed/OO_HYVM1__YDH_2017_10_06T05_16_45.jpg"
         },
         {
@@ -134,19 +134,19 @@ export default {
           "image": "http://himatdata.s3.amazonaws.com/whaledr_renamed/OO_HYVM1__YDH_2017_10_06T01_50_25.jpg"
         },
         {
-          "text": "We want to train a machine to recognize the sounds whales and dolphins make, \n and for that we need your help!",
+          "text": "We want to train a machine to recognize the sounds whales and dolphins make,<br> and for that we need your help!",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gnome-computer.svg/600px-Gnome-computer.svg.png"
         }
       ],
       "examples": [
         {
-          "text": "Swipe right when you hear/see a whale <br> you can tap the image to listen to the sound clip",
+          "text": "Tap the image to listen to the sound clip <br> Swipe right when you hear/see a whale call",
           "pointer": "A3150912_09_1970_01_01T00_03_15_241455Z",
           "answer": 1,
           "tutorialStep": 0
         },
         {
-          "text": "When there are no whale sounds \n swipe left",
+          "text": "Swipe left when there are no whale sounds",
           "pointer": "A3150919_08_1970_01_01T00_19_35_045654Z",
           "answer": 0,
           "tutorialStep": 1
